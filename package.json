@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mjpagenkopf/node_readme_generator/issues"
   },
-  "homepage": "https://github.com/mjpagenkopf/node_readme_generator#readme"
+  "homepage": "https://github.com/mjpagenkopf/node_readme_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
