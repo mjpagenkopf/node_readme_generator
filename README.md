@@ -1,1 +1,0 @@
-# node_readme_generator
