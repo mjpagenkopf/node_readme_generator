@@ -16,40 +16,40 @@ function generateMarkdown(data) {
 
 # Description
 
-${data.description}\n
+${data.description}
 
 ## Table of Contents
 
 * [Installation](#Install)
-* [Usage](#Usage Instructions)
-* [Contribution](#Contribution Guidelines)
-* [Test](#Test Instructions)
-* [License](#License)\n
+* [Usage](#Usage-Instructions)
+* [Contribution](#Contribution-Guidelines)
+* [Test](#Test-Instructions)
+* [License](#License)
 
 ## Installation
 
-${data.install}\n
+${data.install}
 
 ## Usage Instructions
 
-${data.usage}\n
+${data.usage}
 
 ## Contribution Guidelines
 
-${data.contribution}\n
+${data.contribution}
 
 ## Test Instructions
 
-${data.test}\n
+${data.test}
 
 ## License
 
-${data.license}\n
+${data.license}
 
 ## Contact
 
 * Github Username: ${data.username}
-* Email: ${data.email}\n
+* Email: ${data.email}
 `;
 }
 

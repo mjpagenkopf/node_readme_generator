@@ -1,46 +1,38 @@
-# README Generator    
+# README Generator   
 
 # Description
 
-This README Generator is meant to help with creating pre-formatted files
-
+To create clean README files
 
 ## Table of Contents
 
 * [Installation](#Install)
-* [Usage](#Usage Instructions)
-* [Contribution](#Contribution Guidelines)
-* [Test](#Test Instructions)
+* [Usage](#Usage-Instructions)
+* [Contribution](#Contribution-Guidelines)
+* [Test](#Test-Instructions)
 * [License](#License)
-
 
 ## Installation
 
-install npm 
-
+describing install
 
 ## Usage Instructions
 
-use when needed.
-
+describing usage info
 
 ## Contribution Guidelines
 
-many hours 
-
+describing contribution
 
 ## Test Instructions
 
-test with testing
-
+describing test instructions
 
 ## License
 
-MIT License
-
+Apache License v2.0
 
 ## Contact
 
-* Github Username: myfakename
-* Email: myfakeemail@mail.com
-
+* Github Username: githubname
+* Email: git@git.com
