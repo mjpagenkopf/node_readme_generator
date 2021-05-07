@@ -52,3 +52,5 @@ Apache License v2.0
 * Email: pagenkopf.edit@gmail.com
 
 * Link to Screencastify video: [Screencastify](https://drive.google.com/file/d/1851OA2wEchV9Y7gQXW122j1JeTL25qdJ/view)
+
+* Link to Repository: [Repository](https://github.com/mjpagenkopf/node_readme_generator)
