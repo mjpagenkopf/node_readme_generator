@@ -20,19 +20,19 @@ Must have Node installed to run. Install npm to directory and install the inquir
 
 ### Open Directory in Integrated Terminal:
 
-![Open Terminal](\assets\images\terminal_1.png)
+![Open Terminal](\Develop\assets\images\terminal_1.png)
 
 ### Install npm and inquirer:
 
-![Install npm](\assets\images\init.png) ![Install Inquirer](\assets\images\inquirer.png)
+![Install npm](\Develop\assets\images\init.png) ![Install Inquirer](\Develop\assets\images\inquirer.png)
 
 ### Run node in Terminal:
 
-![Run Node](\assets\images\node-index.png)
+![Run Node](\Develop\assets\images\node-index.png)
 
 ### Answer the prompt questions:
 
-![Answer prompts](\assets\images\prompts.png)
+![Answer prompts](\Develop\assets\images\prompts.png)
 
 ## Contribution Guidelines
 
